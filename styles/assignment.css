@@ -73,3 +73,53 @@
 
 /* main human pic section */
 
+.profile{
+
+
+background-image: url(../images/person.png);
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+margin-top: 130px;
+margin-left: 206px;
+
+font-family: 'Work Sans';
+
+
+}
+
+
+.profile-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    width: 288px;
+
+position: absolute;
+text-align: right;
+padding-left: 650px;
+padding-top: 200px;
+
+   
+}
+
+
+.profile-description{
+ 
+    color: #444343;
+
+    padding-top: 340px;
+    padding-left: 679px;
+    position: absolute;
+    
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+  
+
+}
+
+
+
