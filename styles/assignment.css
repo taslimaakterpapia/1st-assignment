@@ -73,53 +73,174 @@
 
 /* main human pic section */
 
-.profile{
+.profile {
 
 
-background-image: url(../images/person.png);
-width: 569px;
-height: 723.3px;
-left: 206px;
-top: 939px;
-margin-top: 130px;
-margin-left: 206px;
+    background-image: url(../images/person.png);
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    margin-top: 130px;
+    margin-left: 206px;
 
-font-family: 'Work Sans';
+    font-family: 'Work Sans', sans-serif;
 
 
 }
 
 
-.profile-title{
+.profile-title {
     color: #151414;
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
     width: 288px;
 
-position: absolute;
-text-align: right;
-padding-left: 650px;
-padding-top: 200px;
+    position: absolute;
+    text-align: right;
+    padding-left: 650px;
+    padding-top: 200px;
 
-   
+
 }
 
 
-.profile-description{
- 
+.profile-description {
+
     color: #444343;
 
     padding-top: 340px;
     padding-left: 679px;
     position: absolute;
-    
+
     font-weight: 400;
-font-size: 16px;
-line-height: 26px;
+    font-size: 16px;
+    line-height: 26px;
+
+
+}
+.profile-description2 {
+
+    color: #444343;
+
+    padding-top: 490px;
+    padding-left: 679px;
+    position: absolute;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+   
+   list-style: none;
+
+
+    }
+
+
+    
+
+.my-plans {
+    text-align: center;
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    font-family: 'Work Sans';
+
+    padding-top: 800px;
+    padding-left: 560px;
+    position: absolute;
+   
+
+    
+
+}
+
+
+.container {
+
+    display: flex;
+    gap: 40px;
+    text-align: center;
+
+    padding-left: 270px;
+    padding-right: 200px;
+    padding-top: 200px;
   
+    
+    
+    
+    
+}
+
+.hadding {
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.text {
+
+
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+    left: 230px;
+top: 2011.96px;
+font-family: 'Work Sans', sans-serif;
+
+
+
+}
+
+
+.main-last{
+
+
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+    width: 1050px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+border-radius: 8px;
+
+
+margin-left: 250px;
+
+
+
+
 
 }
 
 
 
+.main-text{
+
+
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+
+    padding-top: 59px;
+    padding-left: 64px;
+
+    font-weight: 700;
+font-size: 40px;
+    
+}
+
+
+.background-button{
+
+    margin-left: 64px;
+    margin-top: 0px;
+    font-family: 'Work Sans';
+}
