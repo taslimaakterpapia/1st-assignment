@@ -1,0 +1,75 @@
+/*  background section hearder */
+
+.bakcground-section {
+
+    text-align: right;
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+
+
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    left: 0px;
+    top: 0px;
+    width: 1600px;
+    height: 808px;
+
+}
+
+
+
+.background-title {
+
+    line-height: 76px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    padding-top: 216px;
+    padding-right: 230px;
+
+    height: 228px;
+
+
+}
+
+.background-description {
+
+
+
+    font-weight: 400;
+    font-size: 16px;
+
+    padding-right: 230px;
+    line-height: 26px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+
+}
+
+.background-button {
+
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-right: 230px;
+    border-style: none;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    margin-top: 32px;
+
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #005FAC;
+    left: 1236px;
+    top: 599px;
+
+}
+
+
+/* main human pic section */
+
