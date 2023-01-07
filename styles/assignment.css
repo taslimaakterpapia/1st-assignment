@@ -11,11 +11,14 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    
+   
     left: 0px;
     top: 0px;
     width: 1600px;
     height: 808px;
-    margin-top: 0;
+    
+    
     
 
 }
@@ -120,7 +123,7 @@
     font-size: 16px;
     line-height: 26px;
 
-
+ 
 }
 .profile-description2 {
 
@@ -133,11 +136,23 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-   
-   list-style: none;
+    
+    
+  
 
 
-    }
+    
+
+    
+  
+    
+
+
+
+
+
+
+}
 
 
     
@@ -343,6 +358,8 @@ height: 64px;
 left: 1046px;
 top: 2841.96px;
 background: #151414;
+border-color: aliceblue;
+border-radius: 8px;
 padding-left: 21px;
 
 
@@ -373,10 +390,8 @@ padding-left: 21px;
 
 }
 
+.imag{
 
-.img{
-
-  
-
-
+    gap: 20px;
+    padding-left: 10px;
 }
